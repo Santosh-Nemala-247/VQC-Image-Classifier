@@ -17,4 +17,4 @@ Frontend: React.js
 Backend: Python (Flask/FastAPI)
 Deep Learning: TensorFlow / Keras
 Image Processing: OpenCV, NumPy
-Visualization: Matplotlib (optional)
+Visualization: Matplotlib 
